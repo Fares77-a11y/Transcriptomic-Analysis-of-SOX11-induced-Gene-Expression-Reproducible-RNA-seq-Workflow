@@ -167,7 +167,7 @@ Key DEGs labeled
 ### Top 50 DEGs Heatmap
 Heatmap of top significant genes
 
-![Top 50 DEGs Heatmap](results/figures/TOP%2050%20genes%20heatmap.jpeg)
+![Top 50 DEGs Heatmap](results/figures/TOP_50_genes_heatmap.jpeg)
 
 ---
 
