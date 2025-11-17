@@ -158,13 +158,7 @@ Visualizes main variance between conditions
 
 ### Volcano Plot
 All DEGs (padj<0.05, |log2FC|>1)
-
-![Volcano Plot](results/figures/Volcano_plot_Log2FC%20I1I.jpeg)
-
----
-
-### Labeled Volcano Plot
-Key DEGs labeled (padj<0.01, |log2FC|>1)
+Key DEGs labeled 
 
 ![Labeled Volcano](results/figures/Volcano_plot_Log2FC%20I1I_gene_names.jpeg)
 
